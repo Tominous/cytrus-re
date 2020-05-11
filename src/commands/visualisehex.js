@@ -33,6 +33,6 @@ exports.conf = {
 exports.help = {
   name: 'visualisehex',
   category: 'General',
-  description: 'Sends an embed with the specified HEX code as the color.',
+  description: 'Sends an embed with the specified HEX code as the colour.',
   usage: 'visualisehex <hex>'
 };
