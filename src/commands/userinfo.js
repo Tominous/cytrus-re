@@ -32,6 +32,6 @@ exports.conf = {
 exports.help = {
   name: 'userinfo',
   category: 'Utility',
-  description: 'Returns info about the user',
+  description: 'Returns information about the user',
   usage: 'userinfo'
 };
