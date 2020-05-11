@@ -35,6 +35,6 @@ exports.conf = {
 exports.help = {
   name: 'serverinfo',
   category: 'Utility',
-  description: 'Returns info about the server',
+  description: 'Returns information about the server',
   usage: 'serverinfo'
 };
