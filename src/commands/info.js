@@ -29,6 +29,6 @@ exports.conf = {
 exports.help = {
   name: "info",
   category: "General",
-  description: "Returns info about Cytrus-RE.",
+  description: "Returns information about Cytrus-RE.",
   usage: "info"
 };
