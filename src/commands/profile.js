@@ -181,6 +181,6 @@ exports.conf = {
 exports.help = {
   name: "profile",
   category: "General",
-  description: "Shows info for your profile",
+  description: "Shows information for your profile",
   usage: "profile [create/login/logout/reset]"
 };
