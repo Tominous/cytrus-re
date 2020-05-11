@@ -7,7 +7,7 @@ exports.run = async (client, message, args, level) => {
     let g = parseInt(hex.substring(2, 4));
     let b = parseInt(hex.substring(4, 6));
 
-    message.channel.send('RGB Color Code: rgb(' + r + ', ' + g + ', ' + b + ')');
+    message.channel.send('RGB Colour Code: rgb(' + r + ', ' + g + ', ' + b + ')');
   } catch (err) {
     message.channel.send('There was an error!\n' + err).catch();
   }
